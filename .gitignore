@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 *.swp
+code/execution_window_to_dtime_list.py
+code/main.ipynb
